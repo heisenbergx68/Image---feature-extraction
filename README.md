@@ -1,1 +1,1 @@
-# Image---feature-extraction
+# Image feature extraction
